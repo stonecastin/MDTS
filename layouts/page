@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<p align="center">See a blank spot? Contact estone@middlebury.edu with your experience<a href="https://stonecastin.github.io">back to main</a></p>
