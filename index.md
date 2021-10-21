@@ -9,7 +9,7 @@ The directory starts here
 
 **trans students at Middlebury**
 
-[Anderson Freeman Center](transstudentsatmiddlebury/ACFinfo.md)
+[Anderson Freeman Center](transstudentsatmiddlebury/AndersonFreemanCenterinfo.md)
 
 [Prism](transstudentsatmiddlebury/prism.md)
 
@@ -17,7 +17,7 @@ The directory starts here
 
 [Queer and Trans POC (QTPOC)](transstudentsatmiddlebury/QTPOCinfo.md)
 
-[Middlebury statement on inclusion](?if they have one idk)
+[Middlebury statement on inclusion](http://www.middlebury.edu/newsroom/archive/2018-news/node/601617)
 
 [Middlebury Directory for Trans Students (MDTS)](transstudentsatmiddlebury/MDTSinfo.md)
 
@@ -43,11 +43,11 @@ The directory starts here
 
 **Transphobia**
 
-[Reporting](link to whatever, the admin)
+[Reporting](https://www.middlebury.edu/office/title-IX/file-report-or-complaint)
 
 [transphobic incidents log](transphobia/incidentslog.md)
 
-[Navigating transphobia](link to experience page)
+[Navigating transphobia](transphobia/navigatingtransphobia.md)
 
 **Queer history at Middlebury**
 
@@ -65,9 +65,9 @@ The directory starts here
 
 **Resources for Questioning or Closeted Students**
 
-[on campus](link to directory page)
+[on campus](questioningandcloseted/oncampusresources.md)
 
-[off campus](link to directory page)
+[off campus](questioningandcloseted/offcampusresources.md)
 
 [Egg experiences](questioningandcloseted/eggexperiences.md)
 
