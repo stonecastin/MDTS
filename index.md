@@ -31,7 +31,7 @@ The directory starts here
 
 [legal name change by state](statedirectory/statedirectory.md)
 
-[General advice](namechange/generaladvicenamechange.md)
+[General advice](namechange/genadvicenamechange.md)
 
 **HRT experience**
 
@@ -71,7 +71,7 @@ The directory starts here
 
 [Egg experiences](questioningandcloseted/eggexperiences.md)
 
-[Glossary of Terms](link to repository page)
+[Glossary of Terms](https://pflag.org/glossary)
 
 
 
