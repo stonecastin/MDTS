@@ -7,6 +7,8 @@ Welcome to the Middlebury Directory for Trans Students, a repository for resourc
 
 The directory starts here
 
+[Submissions]()
+
 **trans students at Middlebury**
 
 [Anderson Freeman Center](transstudentsatmiddlebury/AndersonFreemanCenterinfo.md)
