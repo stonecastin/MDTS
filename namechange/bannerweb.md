@@ -11,23 +11,39 @@ In order to change yor name in Midd's electronic system,
 Places Where Chosen First Name is Used
 
 -MiddCard or MIIS ID Card (upon request)
+
 -Class and Grade Rosters
+
 -Advisee Lists
+
 -Library sign-out process
+
 -Moodle
+
 -Course Hub
+
 -Online Directory
+
 -Athletics team rosters
+
 -Middlebury College Parton Center for Health and Wellness
+
 
 Places Where Legal First Name is Used
 
+
 -Student Accounts
+
 -Student Financial Services
+
 -Payroll
+
 -Accounts Payable
+
 -Tax forms
+
 -Responses to enrollment inquiries such as verification
+
 -Official Transcripts
 "
 

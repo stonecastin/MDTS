@@ -7,7 +7,7 @@ Welcome to the Middlebury Directory for Trans Students, a repository for resourc
 
 The directory starts here
 
-[Submissions](https://forms.gle/qLEyrVUhX9rszC376)
+[Submissions](submissions/guidelines.md)
 
 **trans students at Middlebury**
 
@@ -37,7 +37,7 @@ The directory starts here
 
 **HRT experience**
 
-[on campus care](campus page)
+[on campus care](HRT/oncampuscare.md)
 
 [HRT experiences by state](statedirectory/statedirectory.md)
 

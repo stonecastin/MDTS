@@ -8,9 +8,13 @@ Groups supported by the AFC include
 
 "
 -Students of color
+
 -First-generation college students
+
 -Students from low-income backgrounds
+
 -LGBTQ+ students
+
 -Any other students who have been historically underrepresented or marginalized in U.S. higher education
 "
 
@@ -21,7 +25,9 @@ Resources include but are not limited to peer mentorship, peer writing and caree
 LGBTQIA+ resources specifically include:
 
 -[LGBTQIA+ events](https://www.middlebury.edu/office/anderson-freeman/programs-and-services/lgbtqia/programs-and-events)
+
 -[All gender bathroom locations](https://www.middlebury.edu/office/anderson-freeman/programs-and-services/lgbtqia/all-gender-restrooms)
+
 -[LGBTQIA+ glossary of terms](https://www.middlebury.edu/office/anderson-freeman/programs-and-services/lgbtqia/lgbtqia-terminology)
 
 
