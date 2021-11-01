@@ -5,7 +5,7 @@ title: experiences sorted by state
 
 **incomplete page!**
 For submissions, please include your state, when you persued your name change / HRT / legal sex change, a description of the process, and any resources you found helpful.
-For general advice, see the submission guidelines in [general advice for name change](namechange/generaladvicenamechange.md) and [general advice for HRT]. 
+For general advice, see the submission guidelines in [general advice for name change](namechange/genadvicenamechange.md) and [general advice for HRT]. 
 
 State | Name Change | Sex Change | HRT
 :---- | :----------: | :--------: | :---:

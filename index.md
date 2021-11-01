@@ -7,7 +7,7 @@ Welcome to the Middlebury Directory for Trans Students, a repository for resourc
 
 The directory starts here
 
-[Submissions]()
+[Submissions](https://forms.gle/qLEyrVUhX9rszC376)
 
 **trans students at Middlebury**
 

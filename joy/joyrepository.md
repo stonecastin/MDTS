@@ -9,4 +9,4 @@ The repository is anonymous by default, if you would like to have identifying in
 
 
 
-There are currently no entries in the joy repository. Please [Email me](estone@middlebury.edu) with your experiences of Trans joy on or off campus.
+There are currently no entries in the joy repository. Please [Email me](https://forms.gle/qLEyrVUhX9rszC376) with your experiences of Trans joy on or off campus.

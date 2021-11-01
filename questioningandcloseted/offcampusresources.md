@@ -7,4 +7,4 @@ title: Off Campus Resources
 
 
 **incomplete page!**
-There are currently few entries in off campus resources. Please [Email me](estone@middlebury.edu) with your experiences / advice.
+There are currently few entries in off campus resources. Please [Email me](https://forms.gle/qLEyrVUhX9rszC376) with your experiences / advice.

@@ -8,4 +8,4 @@ Trans people often refer to their first encounters with gender experimentation a
 
 
 
-There are currently no entries in the joy repository. Please [Email me](estone@middlebury.edu) with your experiences of egg moments.
+There are currently no entries in the joy repository. Please [Email me](https://forms.gle/qLEyrVUhX9rszC376) with your experiences of egg moments.

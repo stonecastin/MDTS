@@ -18,7 +18,7 @@ That being said, harassment or abuse carried out through MDTS will not be tolera
 
 I want to be on the email list
 
-[Email me](estone@middlebury.edu) and I will put you on the email list. I send minimal emails.
+[Email me](https://forms.gle/qLEyrVUhX9rszC376) and I will put you on the email list. I send minimal emails.
 
 I have x experience I want to contribute
 
@@ -29,12 +29,12 @@ Please check the page in question for submission guidelines.
 If your submission is unrelated to these ongoing projects please send it to me anyway.
 The directory is a composite of all Trans experiences at Midd and any suggestions, corrections, or critique is appreciated.
 
-[Email me](estone@middlebury.edu) or, if you have experience using GitHub, this page has a [repositoty](https://github.com/stonecastin/MDTS).
+[Email me](https://forms.gle/qLEyrVUhX9rszC376) or, if you have experience using GitHub, this page has a [repositoty](https://github.com/stonecastin/MDTS).
 I will review any submissions and let you know when they are applied to the site.
 
 There is a typo / broken link / outdated information somewhere
 
-Sorry ([Email me](estone@middlebury.edu))
+Sorry ([Email me](https://forms.gle/qLEyrVUhX9rszC376))
 
 I want to be a mentor / mentee
 
@@ -51,9 +51,9 @@ I will help you with the reporting process should it come to that.
 
 I have a project I would like to add to the Directory
 
-Please [Email me](estone@middlebury.edu) with a description of your project and how best to link it.
+Please [Email me](https://forms.gle/qLEyrVUhX9rszC376) with a description of your project and how best to link it.
 Projects of all kinds (arts, performance, journalism, etc.) are accepted and appreciated.
 
 I have (X unaddressed concern, interest, or comment)
 
-I welcome any feedback on the directory. Please email me at estone@middlebury.edu or stonecastin@gmail.com with your thoughts.
+I welcome any feedback on the directory. Please email me at https://forms.gle/qLEyrVUhX9rszC376 or stonecastin@gmail.com with your thoughts.
