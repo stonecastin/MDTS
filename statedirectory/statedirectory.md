@@ -5,7 +5,7 @@ title: experiences sorted by state
 
 **incomplete page!**
 For submissions, please include your state, when you persued your name change / HRT / legal sex change, a description of the process, and any resources you found helpful.
-For general advice, see the submission guidelines in [general advice for name change](namechange/genadvicenamechange.md) and [general advice for HRT]. 
+For general advice, see the submission guidelines in [general advice for name change](namechange/genadvicenamechange.md) and [general advice for HRT](HRT/genadviceHRT.md).
 
 State | Name Change | Sex Change | HRT
 :---- | :----------: | :--------: | :---:
@@ -28,7 +28,7 @@ Kansas | | |
 Kentucky | | |
 Louisiana | | |
 Maine | | |
-Maryland | | |
+Maryland [X](statedirectory/statenamechange/maryland.md) | | |
 Massachusetts | | |
 Michigan | | |
 Minnesota | | |
